@@ -4,7 +4,7 @@ A one-person production studio. Apps, browser tools, templates and games, made o
 
 ## Worklings
 
-<img src="worklings.png" alt="A Workling, a low-poly figure in an orange top, waving from a little desk with a laptop" width="150" align="right">
+<img src="worklings.png" alt="A Workling: a small round green creature in a yellow hard hat, waving and holding a mug" width="150" align="right">
 
 **Claude Code, with an office around it.** Your words go to your own `claude`, unchanged, and a cozy low-poly 3D
 office shows what it is doing: an inbox for its questions and permission prompts, budgets, its todo list as a task
